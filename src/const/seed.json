@@ -1,0 +1,2372 @@
+[
+  {
+    "software_product": [
+      {
+        "id": "2864ddfd-2cb5-423c-a78e-ff7c569ba5bc",
+        "name": "Product A",
+        "description": "This is the description for Product A",
+        "version": "1.0",
+        "created_at": "2023-09-14T07:12:23.272Z",
+        "updated_at": "2023-09-14T06:17:56.949Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "3b1ce1de-9ce9-4daf-8476-729ca1b19baf",
+        "name": "Product B",
+        "description": "This is the description for Product B",
+        "version": "2.0",
+        "created_at": "2023-09-14T10:00:02.564Z",
+        "updated_at": "2023-09-14T09:03:53.017Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "6230ce04-093f-4028-a80f-6b8c2368bfed",
+        "name": "Product C",
+        "description": "This is the description for Product C",
+        "version": "3.0",
+        "created_at": "2023-09-13T15:01:17.135Z",
+        "updated_at": "2023-09-14T02:30:36.678Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "e54e8266-2256-43c2-babf-7c67a5ead170",
+        "name": "Product D",
+        "description": "This is the description for Product D",
+        "version": "4.0",
+        "created_at": "2023-09-13T21:43:50.056Z",
+        "updated_at": "2023-09-14T03:52:33.148Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "9d1bfabb-b83c-41c9-a1f7-95f1bd3fac8c",
+        "name": "Product E",
+        "description": "This is the description for Product E",
+        "version": "5.0",
+        "created_at": "2023-09-14T07:01:43.530Z",
+        "updated_at": "2023-09-14T09:58:54.412Z",
+        "developer_id": "user_entity_pk"
+      }
+    ],
+    "plugin": [
+      {
+        "id": "45cab546-0f9e-4ad6-9f8c-e5be46e547db",
+        "name": "Plugin A",
+        "description": "This is the description for Plugin A",
+        "version": "1.0",
+        "created_at": "2023-09-14T01:01:48.686Z",
+        "updated_at": "2023-09-14T05:27:04.656Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "eaa8ec05-bdef-4366-a0db-15c7eda090e8",
+        "name": "Plugin B",
+        "description": "This is the description for Plugin B",
+        "version": "2.0",
+        "created_at": "2023-09-14T05:08:33.151Z",
+        "updated_at": "2023-09-13T20:08:47.319Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "8f4af94a-22cb-44f0-870d-e7e1ee4f4fb4",
+        "name": "Plugin C",
+        "description": "This is the description for Plugin C",
+        "version": "3.0",
+        "created_at": "2023-09-13T21:10:49.400Z",
+        "updated_at": "2023-09-14T07:14:14.611Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "057be6ee-2f0b-420a-9553-c17080ca991b",
+        "name": "Plugin D",
+        "description": "This is the description for Plugin D",
+        "version": "4.0",
+        "created_at": "2023-09-14T09:00:17.553Z",
+        "updated_at": "2023-09-14T03:00:38.130Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "46d72e9d-78f3-41e1-86c1-7eabc15988c1",
+        "name": "Plugin E",
+        "description": "This is the description for Plugin E",
+        "version": "5.0",
+        "created_at": "2023-09-14T04:44:09.763Z",
+        "updated_at": "2023-09-13T16:24:14.685Z",
+        "developer_id": "user_entity_pk"
+      }
+    ],
+    "ai_tool": [
+      {
+        "id": "c8f58eb6-ab5a-478b-984c-fc771fc9fbe1",
+        "name": "Tool A",
+        "description": "This is the description for Tool A",
+        "version": "1.0",
+        "created_at": "2023-09-13T21:24:38.238Z",
+        "updated_at": "2023-09-13T18:45:26.708Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "ef09e720-1744-4f8d-9151-07c6d7db172e",
+        "name": "Tool B",
+        "description": "This is the description for Tool B",
+        "version": "2.0",
+        "created_at": "2023-09-14T05:45:02.997Z",
+        "updated_at": "2023-09-14T02:22:00.241Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "38aa2b6a-6aaa-47c6-84e3-10fa474d94eb",
+        "name": "Tool C",
+        "description": "This is the description for Tool C",
+        "version": "3.0",
+        "created_at": "2023-09-14T12:38:39.136Z",
+        "updated_at": "2023-09-13T18:11:36.648Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "93fd9576-17ef-4dae-a4bf-ffec9e206b50",
+        "name": "Tool D",
+        "description": "This is the description for Tool D",
+        "version": "4.0",
+        "created_at": "2023-09-14T01:57:13.607Z",
+        "updated_at": "2023-09-14T05:53:09.631Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "cf916ee2-11de-4adb-98a3-eac81e068e76",
+        "name": "Tool E",
+        "description": "This is the description for Tool E",
+        "version": "5.0",
+        "created_at": "2023-09-13T22:11:12.730Z",
+        "updated_at": "2023-09-13T17:15:51.360Z",
+        "developer_id": "user_entity_pk"
+      }
+    ],
+    "favorites": [
+      {
+        "id": "c122c502-4ac4-4adc-93b5-96785efda874",
+        "created_at": "2023-09-14T09:37:17.727Z",
+        "updated_at": "2023-09-13T15:46:18.316Z",
+        "ai_tool_id": "ef09e720-1744-4f8d-9151-07c6d7db172e",
+        "plugin_id": "057be6ee-2f0b-420a-9553-c17080ca991b",
+        "software_product_id": "2864ddfd-2cb5-423c-a78e-ff7c569ba5bc",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "395d0aaf-edd7-4474-9538-1800d694016b",
+        "created_at": "2023-09-14T00:56:20.150Z",
+        "updated_at": "2023-09-14T06:38:37.252Z",
+        "ai_tool_id": "cf916ee2-11de-4adb-98a3-eac81e068e76",
+        "plugin_id": "eaa8ec05-bdef-4366-a0db-15c7eda090e8",
+        "software_product_id": "2864ddfd-2cb5-423c-a78e-ff7c569ba5bc",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1833bfee-cbc3-49b6-b0b2-bc0995f63dab",
+        "created_at": "2023-09-13T23:31:52.363Z",
+        "updated_at": "2023-09-14T08:48:27.741Z",
+        "ai_tool_id": "93fd9576-17ef-4dae-a4bf-ffec9e206b50",
+        "plugin_id": "46d72e9d-78f3-41e1-86c1-7eabc15988c1",
+        "software_product_id": "3b1ce1de-9ce9-4daf-8476-729ca1b19baf",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5cf3eb34-42e9-45ee-802c-ccd1dfbaae7a",
+        "created_at": "2023-09-14T07:01:45.825Z",
+        "updated_at": "2023-09-13T21:52:15.341Z",
+        "ai_tool_id": "c8f58eb6-ab5a-478b-984c-fc771fc9fbe1",
+        "plugin_id": "8f4af94a-22cb-44f0-870d-e7e1ee4f4fb4",
+        "software_product_id": "e54e8266-2256-43c2-babf-7c67a5ead170",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5c5708f7-25b0-4d6e-b3c5-f606c6700c67",
+        "created_at": "2023-09-14T01:28:04.089Z",
+        "updated_at": "2023-09-14T04:06:48.190Z",
+        "ai_tool_id": "ef09e720-1744-4f8d-9151-07c6d7db172e",
+        "plugin_id": "8f4af94a-22cb-44f0-870d-e7e1ee4f4fb4",
+        "software_product_id": "e54e8266-2256-43c2-babf-7c67a5ead170",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "44d83773-5086-4b50-83ac-a7c0663813b0",
+        "email": "Carmella_Harris78@gmail.com",
+        "firstName": "Imelda",
+        "lastName": "Fahey",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/377.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "04ee7894-35be-4e8a-ad00-3807e39ba49c",
+        "email": "Palma_Macejkovic74@hotmail.com",
+        "firstName": "Orin",
+        "lastName": "Thompson",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/90428693",
+        "tenantId": null
+      },
+      {
+        "reference": "eaa8d13b-3fad-47ea-afeb-b824e61e504b",
+        "email": "Ryan44@yahoo.com",
+        "firstName": "Erich",
+        "lastName": "Legros",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/35236891",
+        "tenantId": null
+      },
+      {
+        "reference": "6bd158ff-543c-4635-afe9-df0f373cb89a",
+        "email": "Ollie.Jerde8@hotmail.com",
+        "firstName": "Golden",
+        "lastName": "Bartoletti",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/210.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "69350be8-e43a-4767-99e0-4b60ef474611",
+        "email": "Granville.Rolfson31@gmail.com",
+        "firstName": "Toney",
+        "lastName": "Daugherty",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/379.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "software_product": [
+      {
+        "id": "b5082158-6cdd-4b13-be28-f60641287ace",
+        "name": "Product A",
+        "description": "This is the description for Product A",
+        "version": "1.0",
+        "created_at": "2023-09-13T19:30:58.582Z",
+        "updated_at": "2023-09-14T01:31:34.474Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "dd66dd73-788e-4a8c-95ce-b169aafcc5e6",
+        "name": "Product B",
+        "description": "This is the description for Product B",
+        "version": "2.0",
+        "created_at": "2023-09-13T14:04:51.750Z",
+        "updated_at": "2023-09-13T15:50:34.704Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "ab638bdc-b39b-49c9-a67b-6bcea6d99338",
+        "name": "Product C",
+        "description": "This is the description for Product C",
+        "version": "3.0",
+        "created_at": "2023-09-13T16:08:43.113Z",
+        "updated_at": "2023-09-13T19:08:49.637Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "781d468d-cc27-4002-af8f-58c21e1a3991",
+        "name": "Product D",
+        "description": "This is the description for Product D",
+        "version": "4.0",
+        "created_at": "2023-09-13T21:59:30.360Z",
+        "updated_at": "2023-09-14T05:29:49.753Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "aee57ce7-79ea-45fe-8b20-e42b66f30670",
+        "name": "Product E",
+        "description": "This is the description for Product E",
+        "version": "5.0",
+        "created_at": "2023-09-13T19:38:17.517Z",
+        "updated_at": "2023-09-13T17:22:54.945Z",
+        "developer_id": "user_entity_pk"
+      }
+    ],
+    "plugin": [
+      {
+        "id": "df51f5d5-4028-47cf-bf91-3846768045be",
+        "name": "Plugin A",
+        "description": "This is the description for Plugin A",
+        "version": "1.0",
+        "created_at": "2023-09-14T10:04:11.603Z",
+        "updated_at": "2023-09-14T08:52:08.566Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "24b09839-a890-45c1-acdf-576ef9df68d8",
+        "name": "Plugin B",
+        "description": "This is the description for Plugin B",
+        "version": "2.0",
+        "created_at": "2023-09-13T22:33:19.597Z",
+        "updated_at": "2023-09-13T13:20:02.404Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "81bd1502-0686-4956-b66e-4d1c93d6136b",
+        "name": "Plugin C",
+        "description": "This is the description for Plugin C",
+        "version": "3.0",
+        "created_at": "2023-09-14T06:25:55.872Z",
+        "updated_at": "2023-09-13T13:06:45.610Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "6b685ce3-7ec3-40ce-89d9-77a433b8fb52",
+        "name": "Plugin D",
+        "description": "This is the description for Plugin D",
+        "version": "4.0",
+        "created_at": "2023-09-14T11:12:29.186Z",
+        "updated_at": "2023-09-14T07:07:36.982Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "db0203af-076e-4b35-a3d8-ef13abc9b828",
+        "name": "Plugin E",
+        "description": "This is the description for Plugin E",
+        "version": "5.0",
+        "created_at": "2023-09-13T15:25:25.087Z",
+        "updated_at": "2023-09-13T20:26:43.131Z",
+        "developer_id": "user_entity_pk"
+      }
+    ],
+    "ai_tool": [
+      {
+        "id": "23abb115-d361-4122-811c-d64979d4c9cd",
+        "name": "Tool A",
+        "description": "This is the description for Tool A",
+        "version": "1.0",
+        "created_at": "2023-09-13T21:54:30.875Z",
+        "updated_at": "2023-09-14T09:46:02.305Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "8aaf21dd-8ccc-488a-895c-ef29b6a0f2d8",
+        "name": "Tool B",
+        "description": "This is the description for Tool B",
+        "version": "2.0",
+        "created_at": "2023-09-14T08:59:04.246Z",
+        "updated_at": "2023-09-13T14:08:05.278Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "fad4af6a-ee54-45b3-a566-c783c26a7618",
+        "name": "Tool C",
+        "description": "This is the description for Tool C",
+        "version": "3.0",
+        "created_at": "2023-09-14T05:29:17.280Z",
+        "updated_at": "2023-09-13T19:05:13.092Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "fb87489f-3dd8-4b06-827a-139776b8f3dc",
+        "name": "Tool D",
+        "description": "This is the description for Tool D",
+        "version": "4.0",
+        "created_at": "2023-09-13T23:02:57.943Z",
+        "updated_at": "2023-09-14T12:36:43.726Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "2506e60f-e077-4e8f-be72-66fc8ecc9ad2",
+        "name": "Tool E",
+        "description": "This is the description for Tool E",
+        "version": "5.0",
+        "created_at": "2023-09-13T14:51:22.349Z",
+        "updated_at": "2023-09-14T04:23:28.891Z",
+        "developer_id": "user_entity_pk"
+      }
+    ],
+    "favorites": [
+      {
+        "id": "709634b9-83fe-42ab-86e4-1b1635aff146",
+        "created_at": "2023-09-13T18:05:41.790Z",
+        "updated_at": "2023-09-13T16:12:13.055Z",
+        "ai_tool_id": "fad4af6a-ee54-45b3-a566-c783c26a7618",
+        "plugin_id": "81bd1502-0686-4956-b66e-4d1c93d6136b",
+        "software_product_id": "dd66dd73-788e-4a8c-95ce-b169aafcc5e6",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9ef1bcd1-2f84-4884-a0d4-9e0c209a317a",
+        "created_at": "2023-09-14T04:02:37.202Z",
+        "updated_at": "2023-09-14T03:30:52.610Z",
+        "ai_tool_id": "fb87489f-3dd8-4b06-827a-139776b8f3dc",
+        "plugin_id": "6b685ce3-7ec3-40ce-89d9-77a433b8fb52",
+        "software_product_id": "dd66dd73-788e-4a8c-95ce-b169aafcc5e6",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b0bec940-af3e-46ac-82ff-fb179efb21b7",
+        "created_at": "2023-09-14T02:11:10.716Z",
+        "updated_at": "2023-09-13T23:33:21.493Z",
+        "ai_tool_id": "23abb115-d361-4122-811c-d64979d4c9cd",
+        "plugin_id": "db0203af-076e-4b35-a3d8-ef13abc9b828",
+        "software_product_id": "b5082158-6cdd-4b13-be28-f60641287ace",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "89edf22d-3240-49a0-aa9d-a45e71462a95",
+        "created_at": "2023-09-13T18:01:02.317Z",
+        "updated_at": "2023-09-13T18:26:07.819Z",
+        "ai_tool_id": "23abb115-d361-4122-811c-d64979d4c9cd",
+        "plugin_id": "df51f5d5-4028-47cf-bf91-3846768045be",
+        "software_product_id": "781d468d-cc27-4002-af8f-58c21e1a3991",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "322e2971-142c-4b0c-a23a-3ad4dd4c69b1",
+        "created_at": "2023-09-13T18:04:43.958Z",
+        "updated_at": "2023-09-14T06:35:01.552Z",
+        "ai_tool_id": "2506e60f-e077-4e8f-be72-66fc8ecc9ad2",
+        "plugin_id": "24b09839-a890-45c1-acdf-576ef9df68d8",
+        "software_product_id": "b5082158-6cdd-4b13-be28-f60641287ace",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "2592d535-0510-48ae-8fe4-42da4dfbea01",
+        "email": "Cary81@hotmail.com",
+        "firstName": "William",
+        "lastName": "VonRueden",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/59503859",
+        "tenantId": null
+      },
+      {
+        "reference": "9697eb5a-e05a-4bd0-b435-a75f5d9fee69",
+        "email": "Isaac_Kessler@yahoo.com",
+        "firstName": "Lupe",
+        "lastName": "Bosco",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/95982323",
+        "tenantId": null
+      },
+      {
+        "reference": "0426ef41-82b1-420f-8a4b-9acd2bb21f9e",
+        "email": "Verna_Powlowski@gmail.com",
+        "firstName": "Ramona",
+        "lastName": "Blanda",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/190.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "b6557c42-e8e3-48db-986a-d7b7776886c1",
+        "email": "Evie.Hilll@yahoo.com",
+        "firstName": "Elvera",
+        "lastName": "Stoltenberg",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/852.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "cb9bc15f-c6de-42cb-9eb0-e9b38bcdcc5f",
+        "email": "Stephania.Oberbrunner31@hotmail.com",
+        "firstName": "Cicero",
+        "lastName": "Wyman",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/77037695",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "software_product": [
+      {
+        "id": "14be8950-00a0-4ddf-835c-d16201cba3ac",
+        "name": "Product A",
+        "description": "This is a description for Product A",
+        "version": "1.0",
+        "created_at": "2023-09-13T16:29:35.999Z",
+        "updated_at": "2023-09-13T17:46:28.226Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "aedd1841-589a-4763-98ce-9b8a0af885c3",
+        "name": "Product B",
+        "description": "This is a description for Product B",
+        "version": "2.0",
+        "created_at": "2023-09-14T06:51:25.333Z",
+        "updated_at": "2023-09-14T10:53:02.881Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "a6cc1907-58dc-48c2-8b73-eadd0524155e",
+        "name": "Product C",
+        "description": "This is a description for Product C",
+        "version": "3.0",
+        "created_at": "2023-09-14T08:05:38.525Z",
+        "updated_at": "2023-09-13T21:34:17.399Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "1b3603e2-6e33-4d9e-8bf2-c9ccf6f3fc03",
+        "name": "Product D",
+        "description": "This is a description for Product D",
+        "version": "4.0",
+        "created_at": "2023-09-13T23:44:54.065Z",
+        "updated_at": "2023-09-14T02:34:10.096Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "d176c5c7-7920-4fab-8ff4-33bd79198cef",
+        "name": "Product E",
+        "description": "This is a description for Product E",
+        "version": "5.0",
+        "created_at": "2023-09-14T08:37:22.969Z",
+        "updated_at": "2023-09-14T11:26:12.506Z",
+        "developer_id": "user_entity_pk"
+      }
+    ],
+    "plugin": [
+      {
+        "id": "0bbf7627-e1e6-4e6d-b42e-974835ff3fc9",
+        "name": "Plugin A",
+        "description": "This is a description for Plugin A",
+        "version": "1.0",
+        "created_at": "2023-09-13T22:12:14.703Z",
+        "updated_at": "2023-09-14T12:13:40.981Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "e0987d6e-96f2-49dc-b716-f15074704819",
+        "name": "Plugin B",
+        "description": "This is a description for Plugin B",
+        "version": "2.0",
+        "created_at": "2023-09-13T19:50:44.262Z",
+        "updated_at": "2023-09-13T16:13:00.564Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "0d7fb89e-adba-489d-a282-74b1d456d266",
+        "name": "Plugin C",
+        "description": "This is a description for Plugin C",
+        "version": "3.0",
+        "created_at": "2023-09-13T17:22:29.799Z",
+        "updated_at": "2023-09-13T23:13:01.200Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "2875663d-67aa-4455-8c61-c3e98f75b6ec",
+        "name": "Plugin D",
+        "description": "This is a description for Plugin D",
+        "version": "4.0",
+        "created_at": "2023-09-14T07:31:41.312Z",
+        "updated_at": "2023-09-14T08:05:43.731Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "9ffc8954-731b-416c-b469-d0a5bc45e9a3",
+        "name": "Plugin E",
+        "description": "This is a description for Plugin E",
+        "version": "5.0",
+        "created_at": "2023-09-14T07:27:24.838Z",
+        "updated_at": "2023-09-13T19:06:18.380Z",
+        "developer_id": "user_entity_pk"
+      }
+    ],
+    "ai_tool": [
+      {
+        "id": "f26f7ddc-6931-4dfc-92da-cd1c1b7e9714",
+        "name": "Tool A",
+        "description": "This is a description for Tool A",
+        "version": "1.0",
+        "created_at": "2023-09-14T05:49:23.476Z",
+        "updated_at": "2023-09-13T13:18:23.073Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "b740784a-4cbd-4179-9520-96142c9ba8c4",
+        "name": "Tool B",
+        "description": "This is a description for Tool B",
+        "version": "2.0",
+        "created_at": "2023-09-14T10:04:02.394Z",
+        "updated_at": "2023-09-14T01:47:35.209Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "2366b35c-3a3f-4061-a456-0c508cdb5522",
+        "name": "Tool C",
+        "description": "This is a description for Tool C",
+        "version": "3.0",
+        "created_at": "2023-09-13T13:52:28.234Z",
+        "updated_at": "2023-09-14T01:26:15.017Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "b47c9542-c7fc-40d0-822e-1806224d557e",
+        "name": "Tool D",
+        "description": "This is a description for Tool D",
+        "version": "4.0",
+        "created_at": "2023-09-14T07:12:02.250Z",
+        "updated_at": "2023-09-14T02:51:04.473Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "42b1ccfc-b3fd-4922-baee-55a43c573d84",
+        "name": "Tool E",
+        "description": "This is a description for Tool E",
+        "version": "5.0",
+        "created_at": "2023-09-13T14:15:22.359Z",
+        "updated_at": "2023-09-14T07:13:26.535Z",
+        "developer_id": "user_entity_pk"
+      }
+    ],
+    "favorites": [
+      {
+        "id": "6b442327-3aaf-42b4-80a8-f28aa68ea5fc",
+        "created_at": "2023-09-14T00:29:13.898Z",
+        "updated_at": "2023-09-13T20:18:32.609Z",
+        "ai_tool_id": "42b1ccfc-b3fd-4922-baee-55a43c573d84",
+        "plugin_id": "e0987d6e-96f2-49dc-b716-f15074704819",
+        "software_product_id": "14be8950-00a0-4ddf-835c-d16201cba3ac",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3c888290-2e55-41a6-bebf-9a8e47d7a0dc",
+        "created_at": "2023-09-14T06:46:26.343Z",
+        "updated_at": "2023-09-13T23:42:43.457Z",
+        "ai_tool_id": "f26f7ddc-6931-4dfc-92da-cd1c1b7e9714",
+        "plugin_id": "9ffc8954-731b-416c-b469-d0a5bc45e9a3",
+        "software_product_id": "d176c5c7-7920-4fab-8ff4-33bd79198cef",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "667d9ab2-7d1f-42a5-b039-a9680378c11d",
+        "created_at": "2023-09-14T09:40:08.498Z",
+        "updated_at": "2023-09-13T22:06:04.180Z",
+        "ai_tool_id": "b740784a-4cbd-4179-9520-96142c9ba8c4",
+        "plugin_id": "2875663d-67aa-4455-8c61-c3e98f75b6ec",
+        "software_product_id": "1b3603e2-6e33-4d9e-8bf2-c9ccf6f3fc03",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d0efdfb0-88b6-46f2-af77-3a4f66d4cfb1",
+        "created_at": "2023-09-14T07:39:38.920Z",
+        "updated_at": "2023-09-14T08:10:32.443Z",
+        "ai_tool_id": "f26f7ddc-6931-4dfc-92da-cd1c1b7e9714",
+        "plugin_id": "2875663d-67aa-4455-8c61-c3e98f75b6ec",
+        "software_product_id": "a6cc1907-58dc-48c2-8b73-eadd0524155e",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "bd07a73e-ce44-437e-b1c0-02f2715cc65b",
+        "created_at": "2023-09-14T06:24:36.074Z",
+        "updated_at": "2023-09-14T06:54:18.792Z",
+        "ai_tool_id": "b740784a-4cbd-4179-9520-96142c9ba8c4",
+        "plugin_id": "0bbf7627-e1e6-4e6d-b42e-974835ff3fc9",
+        "software_product_id": "1b3603e2-6e33-4d9e-8bf2-c9ccf6f3fc03",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "4d2b1ed1-48c1-45e5-abf7-7b398df4b5a8",
+        "email": "Linnea43@hotmail.com",
+        "firstName": "Buford",
+        "lastName": "Yundt",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/984.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "3fac0bd8-a3c0-43fa-a632-df74cf4fb7ac",
+        "email": "Johnathan_Ratke96@yahoo.com",
+        "firstName": "Liam",
+        "lastName": "Connelly",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/634.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "f360a478-ac44-4cc8-949a-7a1e7469f23e",
+        "email": "Lawrence21@yahoo.com",
+        "firstName": "Dorothy",
+        "lastName": "Gislason",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/72537490",
+        "tenantId": null
+      },
+      {
+        "reference": "baa77d61-e46e-47c1-a153-83a4d42bb5bf",
+        "email": "Jessica_Larson@yahoo.com",
+        "firstName": "Ada",
+        "lastName": "Goyette",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/61867797",
+        "tenantId": null
+      },
+      {
+        "reference": "655b604b-105e-41bb-a146-d5af08a0bf5f",
+        "email": "Virginie.Anderson-Jakubowski@hotmail.com",
+        "firstName": "Wyman",
+        "lastName": "Raynor",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/29161635",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "software_product": [
+      {
+        "id": "b1597db4-a29b-4dcf-b6be-029a8f154f46",
+        "name": "Product A",
+        "description": "A software product for managing finances",
+        "version": "1.0",
+        "created_at": "2023-09-14T02:45:33.300Z",
+        "updated_at": "2023-09-13T21:24:34.008Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "93b435f5-ad47-4b3c-baf3-accb7f6b9a7c",
+        "name": "Product B",
+        "description": "A software product for project management",
+        "version": "2.0",
+        "created_at": "2023-09-14T02:19:45.545Z",
+        "updated_at": "2023-09-14T06:06:54.882Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "14c83293-3910-4043-84a6-a3c3cb8acded",
+        "name": "Product C",
+        "description": "A software product for customer relationship management",
+        "version": "3.0",
+        "created_at": "2023-09-14T01:14:33.109Z",
+        "updated_at": "2023-09-13T22:46:48.800Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "b9a7b3ff-c325-47f3-b959-42fe3a2afa96",
+        "name": "Product D",
+        "description": "A software product for inventory management",
+        "version": "4.0",
+        "created_at": "2023-09-14T02:21:05.039Z",
+        "updated_at": "2023-09-13T13:57:10.742Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "ae49cd89-1bf4-4e55-8567-1ffdeb902c60",
+        "name": "Product E",
+        "description": "A software product for data analysis",
+        "version": "5.0",
+        "created_at": "2023-09-13T16:57:17.610Z",
+        "updated_at": "2023-09-14T03:31:54.487Z",
+        "developer_id": "user_entity_pk"
+      }
+    ],
+    "plugin": [
+      {
+        "id": "f4824537-2cd3-44fb-a37b-c25935d119df",
+        "name": "Plugin A",
+        "description": "A plugin for enhancing productivity",
+        "version": "1.0",
+        "created_at": "2023-09-13T13:29:01.119Z",
+        "updated_at": "2023-09-14T04:56:20.089Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "a7bd3187-a122-4fe3-a0d4-c8cbcf04500b",
+        "name": "Plugin B",
+        "description": "A plugin for data visualization",
+        "version": "2.0",
+        "created_at": "2023-09-13T19:30:44.469Z",
+        "updated_at": "2023-09-14T09:42:37.176Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "5f50b147-aa6d-4867-baf2-a4dcded62fb4",
+        "name": "Plugin C",
+        "description": "A plugin for social media integration",
+        "version": "3.0",
+        "created_at": "2023-09-14T10:43:09.162Z",
+        "updated_at": "2023-09-14T10:37:42.743Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "7f0ebfba-dda1-4b47-8982-e7a310fb44b7",
+        "name": "Plugin D",
+        "description": "A plugin for security enhancements",
+        "version": "4.0",
+        "created_at": "2023-09-13T14:45:57.365Z",
+        "updated_at": "2023-09-14T03:07:43.339Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "b3440e4e-9aa5-4151-a583-ee2e1a346dc6",
+        "name": "Plugin E",
+        "description": "A plugin for performance optimization",
+        "version": "5.0",
+        "created_at": "2023-09-14T06:40:56.157Z",
+        "updated_at": "2023-09-13T18:25:28.765Z",
+        "developer_id": "user_entity_pk"
+      }
+    ],
+    "ai_tool": [
+      {
+        "id": "8a1d6a79-ec13-4580-9648-5da05f355562",
+        "name": "Tool A",
+        "description": "An AI tool for natural language processing",
+        "version": "1.0",
+        "created_at": "2023-09-14T01:08:00.505Z",
+        "updated_at": "2023-09-14T09:16:42.407Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "f3377259-ebfa-4a53-bcaa-3b846d9a7cdd",
+        "name": "Tool B",
+        "description": "An AI tool for image recognition",
+        "version": "2.0",
+        "created_at": "2023-09-13T22:12:27.121Z",
+        "updated_at": "2023-09-13T13:32:00.198Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "fa8784dc-d1b7-4b19-9475-5e82bd1acc5f",
+        "name": "Tool C",
+        "description": "An AI tool for sentiment analysis",
+        "version": "3.0",
+        "created_at": "2023-09-14T03:12:32.782Z",
+        "updated_at": "2023-09-13T13:06:14.644Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "bdae6db9-4189-45a6-86f5-3d8761b923f0",
+        "name": "Tool D",
+        "description": "An AI tool for recommendation systems",
+        "version": "4.0",
+        "created_at": "2023-09-14T06:12:45.740Z",
+        "updated_at": "2023-09-14T09:01:58.600Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "3dbd7f53-0439-472e-9c97-057ff861af8a",
+        "name": "Tool E",
+        "description": "An AI tool for predictive analytics",
+        "version": "5.0",
+        "created_at": "2023-09-13T13:14:44.277Z",
+        "updated_at": "2023-09-13T17:44:51.299Z",
+        "developer_id": "user_entity_pk"
+      }
+    ],
+    "favorites": [
+      {
+        "id": "4bc28b9a-6aca-4af0-a131-eef87655f93b",
+        "created_at": "2023-09-14T00:38:11.681Z",
+        "updated_at": "2023-09-14T01:24:35.327Z",
+        "ai_tool_id": "fa8784dc-d1b7-4b19-9475-5e82bd1acc5f",
+        "plugin_id": "a7bd3187-a122-4fe3-a0d4-c8cbcf04500b",
+        "software_product_id": "14c83293-3910-4043-84a6-a3c3cb8acded",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "24cff8de-0449-4ff3-84a9-2b7037451f91",
+        "created_at": "2023-09-14T00:49:09.320Z",
+        "updated_at": "2023-09-14T07:47:18.118Z",
+        "ai_tool_id": "f3377259-ebfa-4a53-bcaa-3b846d9a7cdd",
+        "plugin_id": "7f0ebfba-dda1-4b47-8982-e7a310fb44b7",
+        "software_product_id": "b9a7b3ff-c325-47f3-b959-42fe3a2afa96",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b487d642-0dc8-476d-a075-4f36481ff45f",
+        "created_at": "2023-09-13T19:30:55.353Z",
+        "updated_at": "2023-09-14T05:12:45.672Z",
+        "ai_tool_id": "3dbd7f53-0439-472e-9c97-057ff861af8a",
+        "plugin_id": "7f0ebfba-dda1-4b47-8982-e7a310fb44b7",
+        "software_product_id": "b9a7b3ff-c325-47f3-b959-42fe3a2afa96",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "23a927ee-0ea5-4301-bf7a-40a075674f6f",
+        "created_at": "2023-09-14T06:08:42.080Z",
+        "updated_at": "2023-09-13T21:27:09.149Z",
+        "ai_tool_id": "bdae6db9-4189-45a6-86f5-3d8761b923f0",
+        "plugin_id": "7f0ebfba-dda1-4b47-8982-e7a310fb44b7",
+        "software_product_id": "14c83293-3910-4043-84a6-a3c3cb8acded",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "68e8ff8d-c220-47cf-8883-51c61e38e7b3",
+        "created_at": "2023-09-14T04:46:04.652Z",
+        "updated_at": "2023-09-13T20:12:37.159Z",
+        "ai_tool_id": "bdae6db9-4189-45a6-86f5-3d8761b923f0",
+        "plugin_id": "f4824537-2cd3-44fb-a37b-c25935d119df",
+        "software_product_id": "ae49cd89-1bf4-4e55-8567-1ffdeb902c60",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "42915eee-5a48-4084-8959-af237e2129d0",
+        "email": "Myrtis.Abbott@yahoo.com",
+        "firstName": "Marilie",
+        "lastName": "Medhurst",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/27589583",
+        "tenantId": null
+      },
+      {
+        "reference": "cfdee23d-432b-45ad-a254-46488cf698b5",
+        "email": "Deborah_Batz@hotmail.com",
+        "firstName": "Reese",
+        "lastName": "Hahn",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/15460130",
+        "tenantId": null
+      },
+      {
+        "reference": "78707843-d534-4221-9174-9ee084f2485d",
+        "email": "Scarlett_Mills77@hotmail.com",
+        "firstName": "Ebba",
+        "lastName": "Beatty",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/890.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "400b2300-8a0f-431d-aa5f-f0ad86a442b5",
+        "email": "Clint27@yahoo.com",
+        "firstName": "Tremaine",
+        "lastName": "Dare",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/91850610",
+        "tenantId": null
+      },
+      {
+        "reference": "0ef363b6-ed79-447c-83f9-cf9b7db5da4c",
+        "email": "Armand61@hotmail.com",
+        "firstName": "Muhammad",
+        "lastName": "Leffler",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/222.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "software_product": [
+      {
+        "id": "6635a888-f642-4f1c-8a18-279aef6106d2",
+        "name": "Product A",
+        "description": "A software product for managing finances",
+        "version": "1.0",
+        "created_at": "2023-09-13T20:58:18.134Z",
+        "updated_at": "2023-09-14T11:57:15.673Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "f83b7c4e-535b-4072-bb9c-7c1fd75136db",
+        "name": "Product B",
+        "description": "A software product for project management",
+        "version": "2.0",
+        "created_at": "2023-09-14T05:40:52.881Z",
+        "updated_at": "2023-09-13T18:06:49.596Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "64fd3c5c-f8c3-4aaa-98b6-0b1757c4e55a",
+        "name": "Product C",
+        "description": "A software product for customer relationship management",
+        "version": "3.0",
+        "created_at": "2023-09-13T13:58:50.088Z",
+        "updated_at": "2023-09-13T15:17:03.681Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "72fcebb7-cbe2-487c-adcd-156d75369fe9",
+        "name": "Product D",
+        "description": "A software product for inventory management",
+        "version": "4.0",
+        "created_at": "2023-09-13T19:45:05.436Z",
+        "updated_at": "2023-09-14T11:22:08.765Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "eab96b76-03c8-4101-a545-2bf78548fd5a",
+        "name": "Product E",
+        "description": "A software product for data analysis",
+        "version": "5.0",
+        "created_at": "2023-09-14T00:01:52.059Z",
+        "updated_at": "2023-09-14T08:01:39.513Z",
+        "developer_id": "user_entity_pk"
+      }
+    ],
+    "plugin": [
+      {
+        "id": "158ef2da-074d-4d42-b9c4-9956c6ce7b05",
+        "name": "Plugin A",
+        "description": "A plugin for enhancing productivity",
+        "version": "1.0",
+        "created_at": "2023-09-14T02:11:06.844Z",
+        "updated_at": "2023-09-13T23:57:09.793Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "ba332749-52c3-4ad8-9ed3-3ab56ce04ec3",
+        "name": "Plugin B",
+        "description": "A plugin for data visualization",
+        "version": "2.0",
+        "created_at": "2023-09-14T04:56:46.240Z",
+        "updated_at": "2023-09-13T23:23:07.888Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "890b9f38-4246-4f3e-bfa9-ceae9910d56a",
+        "name": "Plugin C",
+        "description": "A plugin for social media integration",
+        "version": "3.0",
+        "created_at": "2023-09-14T05:43:53.635Z",
+        "updated_at": "2023-09-14T10:33:10.377Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "d5bfa5ca-d416-4bac-8303-fdf08e28cd50",
+        "name": "Plugin D",
+        "description": "A plugin for security enhancements",
+        "version": "4.0",
+        "created_at": "2023-09-13T13:46:42.969Z",
+        "updated_at": "2023-09-13T22:18:53.564Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "adb27c60-7189-4c45-b346-0145d547ee15",
+        "name": "Plugin E",
+        "description": "A plugin for email automation",
+        "version": "5.0",
+        "created_at": "2023-09-13T19:46:09.521Z",
+        "updated_at": "2023-09-13T13:49:25.342Z",
+        "developer_id": "user_entity_pk"
+      }
+    ],
+    "ai_tool": [
+      {
+        "id": "f5a3f5b6-fc7e-47af-a6c6-d6526ac16bee",
+        "name": "Tool A",
+        "description": "An AI tool for natural language processing",
+        "version": "1.0",
+        "created_at": "2023-09-13T23:10:41.169Z",
+        "updated_at": "2023-09-13T15:30:56.818Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "97b2e623-1614-45de-a11c-86bae7774d54",
+        "name": "Tool B",
+        "description": "An AI tool for image recognition",
+        "version": "2.0",
+        "created_at": "2023-09-13T22:04:41.822Z",
+        "updated_at": "2023-09-13T15:10:06.568Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "be6b5c53-2e54-4eaf-b6f8-1143ec256df0",
+        "name": "Tool C",
+        "description": "An AI tool for predictive analytics",
+        "version": "3.0",
+        "created_at": "2023-09-14T09:42:09.144Z",
+        "updated_at": "2023-09-13T14:32:57.183Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "04c4cc15-06d3-4fd7-84c2-41f6b3125afe",
+        "name": "Tool D",
+        "description": "An AI tool for sentiment analysis",
+        "version": "4.0",
+        "created_at": "2023-09-14T12:22:56.429Z",
+        "updated_at": "2023-09-13T21:10:42.661Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "16c3ea8f-a4e5-413e-88f6-f208c6a9f690",
+        "name": "Tool E",
+        "description": "An AI tool for recommendation systems",
+        "version": "5.0",
+        "created_at": "2023-09-14T04:13:40.596Z",
+        "updated_at": "2023-09-14T00:11:53.180Z",
+        "developer_id": "user_entity_pk"
+      }
+    ],
+    "favorites": [
+      {
+        "id": "898d4f53-8955-479a-918b-c507c9fc2d4f",
+        "created_at": "2023-09-14T06:53:53.850Z",
+        "updated_at": "2023-09-13T21:26:01.832Z",
+        "ai_tool_id": "04c4cc15-06d3-4fd7-84c2-41f6b3125afe",
+        "plugin_id": "ba332749-52c3-4ad8-9ed3-3ab56ce04ec3",
+        "software_product_id": "6635a888-f642-4f1c-8a18-279aef6106d2",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "322fabfb-4a96-48bd-ba98-c77d51c94177",
+        "created_at": "2023-09-13T16:16:56.972Z",
+        "updated_at": "2023-09-13T22:51:44.995Z",
+        "ai_tool_id": "be6b5c53-2e54-4eaf-b6f8-1143ec256df0",
+        "plugin_id": "158ef2da-074d-4d42-b9c4-9956c6ce7b05",
+        "software_product_id": "72fcebb7-cbe2-487c-adcd-156d75369fe9",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1a10aec5-004a-4a29-a6d7-525ef133e800",
+        "created_at": "2023-09-14T11:14:32.209Z",
+        "updated_at": "2023-09-14T08:34:39.637Z",
+        "ai_tool_id": "04c4cc15-06d3-4fd7-84c2-41f6b3125afe",
+        "plugin_id": "adb27c60-7189-4c45-b346-0145d547ee15",
+        "software_product_id": "eab96b76-03c8-4101-a545-2bf78548fd5a",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "88a09771-a227-4523-8220-4da1ddd0493b",
+        "created_at": "2023-09-13T22:37:56.618Z",
+        "updated_at": "2023-09-13T23:57:17.857Z",
+        "ai_tool_id": "04c4cc15-06d3-4fd7-84c2-41f6b3125afe",
+        "plugin_id": "d5bfa5ca-d416-4bac-8303-fdf08e28cd50",
+        "software_product_id": "64fd3c5c-f8c3-4aaa-98b6-0b1757c4e55a",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c216ce9a-1e6a-45f3-9beb-a40286e9238a",
+        "created_at": "2023-09-14T01:52:50.913Z",
+        "updated_at": "2023-09-14T05:04:54.281Z",
+        "ai_tool_id": "f5a3f5b6-fc7e-47af-a6c6-d6526ac16bee",
+        "plugin_id": "158ef2da-074d-4d42-b9c4-9956c6ce7b05",
+        "software_product_id": "64fd3c5c-f8c3-4aaa-98b6-0b1757c4e55a",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "7cdf64a4-38b4-4b82-8594-37aae3c642e2",
+        "email": "Nolan_Reinger91@yahoo.com",
+        "firstName": "Burley",
+        "lastName": "Swaniawski",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/718.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "b557ddc1-0577-452d-95ea-66b72c6146a5",
+        "email": "Allen.Hahn91@hotmail.com",
+        "firstName": "Sabryna",
+        "lastName": "Lehner",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/88391179",
+        "tenantId": null
+      },
+      {
+        "reference": "17f7cdfa-063f-4567-833d-fc076564d302",
+        "email": "Mariam93@yahoo.com",
+        "firstName": "Kattie",
+        "lastName": "Grant",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/910.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "981ce477-0f14-4517-a19a-81c92327a2b7",
+        "email": "Pamela.Will10@gmail.com",
+        "firstName": "Dino",
+        "lastName": "Gerlach",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/539.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "ab3b2f32-4c53-48ee-8fb5-0d216a7d8867",
+        "email": "Alexzander41@yahoo.com",
+        "firstName": "Michele",
+        "lastName": "Mueller",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/22745289",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "software_product": [
+      {
+        "id": "e340c7e3-514b-4a7f-a7f0-91024bb97fc4",
+        "name": "Product A",
+        "description": "This is the description for Product A",
+        "version": "1.0",
+        "created_at": "2023-09-14T04:35:21.447Z",
+        "updated_at": "2023-09-13T21:37:00.764Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "c8a307b4-591c-4fa1-af2d-c126b85515a7",
+        "name": "Product B",
+        "description": "This is the description for Product B",
+        "version": "2.0",
+        "created_at": "2023-09-14T11:30:41.003Z",
+        "updated_at": "2023-09-13T12:58:00.192Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "c4700033-2a0b-4d58-b623-396d70cd8e90",
+        "name": "Product C",
+        "description": "This is the description for Product C",
+        "version": "3.0",
+        "created_at": "2023-09-13T22:09:59.375Z",
+        "updated_at": "2023-09-14T01:42:39.103Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "796871e7-3629-4b37-8229-27d891c7026e",
+        "name": "Product D",
+        "description": "This is the description for Product D",
+        "version": "4.0",
+        "created_at": "2023-09-14T06:23:32.734Z",
+        "updated_at": "2023-09-13T17:16:28.703Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "6104a4f0-1e9f-4617-a42e-4d7746ae314a",
+        "name": "Product E",
+        "description": "This is the description for Product E",
+        "version": "5.0",
+        "created_at": "2023-09-14T09:04:17.041Z",
+        "updated_at": "2023-09-14T01:30:42.275Z",
+        "developer_id": "user_entity_pk"
+      }
+    ],
+    "plugin": [
+      {
+        "id": "677658ab-6065-403f-a119-d413ccdd1262",
+        "name": "Plugin A",
+        "description": "This is the description for Plugin A",
+        "version": "1.0",
+        "created_at": "2023-09-14T02:45:13.390Z",
+        "updated_at": "2023-09-14T09:11:44.867Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "e98e526d-02f1-4f9d-becb-300625ab285b",
+        "name": "Plugin B",
+        "description": "This is the description for Plugin B",
+        "version": "2.0",
+        "created_at": "2023-09-13T20:01:22.117Z",
+        "updated_at": "2023-09-14T11:01:10.339Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "7d64430b-f0de-4916-8d82-c10dc4ffd89c",
+        "name": "Plugin C",
+        "description": "This is the description for Plugin C",
+        "version": "3.0",
+        "created_at": "2023-09-14T00:54:29.818Z",
+        "updated_at": "2023-09-13T16:29:13.692Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "d33de7d4-3142-48bd-aaf2-2d4dc3b3686d",
+        "name": "Plugin D",
+        "description": "This is the description for Plugin D",
+        "version": "4.0",
+        "created_at": "2023-09-14T04:09:38.289Z",
+        "updated_at": "2023-09-14T10:49:42.715Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "7c286930-8eae-4452-824f-7b57992341d0",
+        "name": "Plugin E",
+        "description": "This is the description for Plugin E",
+        "version": "5.0",
+        "created_at": "2023-09-13T16:18:21.620Z",
+        "updated_at": "2023-09-14T11:35:02.151Z",
+        "developer_id": "user_entity_pk"
+      }
+    ],
+    "ai_tool": [
+      {
+        "id": "0d43f142-fa07-4b14-bbcc-49d1c6013044",
+        "name": "Tool A",
+        "description": "This is the description for Tool A",
+        "version": "1.0",
+        "created_at": "2023-09-13T12:58:01.406Z",
+        "updated_at": "2023-09-14T12:36:49.399Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "ff553d28-42df-4809-9fd8-b069c2929228",
+        "name": "Tool B",
+        "description": "This is the description for Tool B",
+        "version": "2.0",
+        "created_at": "2023-09-14T06:34:40.582Z",
+        "updated_at": "2023-09-14T09:50:50.418Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "359b63f0-bd04-4761-8009-5a3250ba2aaf",
+        "name": "Tool C",
+        "description": "This is the description for Tool C",
+        "version": "3.0",
+        "created_at": "2023-09-14T09:58:55.596Z",
+        "updated_at": "2023-09-14T04:20:47.373Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "d340c1bd-744e-4ae0-b524-7c53f4bddf3d",
+        "name": "Tool D",
+        "description": "This is the description for Tool D",
+        "version": "4.0",
+        "created_at": "2023-09-14T05:56:36.809Z",
+        "updated_at": "2023-09-13T20:28:05.285Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "546f56a7-2dfc-4137-8daf-fb90546baed5",
+        "name": "Tool E",
+        "description": "This is the description for Tool E",
+        "version": "5.0",
+        "created_at": "2023-09-14T00:29:45.945Z",
+        "updated_at": "2023-09-14T06:07:30.946Z",
+        "developer_id": "user_entity_pk"
+      }
+    ],
+    "favorites": [
+      {
+        "id": "f2206e69-fd1e-434b-8c0e-82828fb98f5b",
+        "created_at": "2023-09-14T12:41:24.956Z",
+        "updated_at": "2023-09-13T17:02:34.953Z",
+        "ai_tool_id": "0d43f142-fa07-4b14-bbcc-49d1c6013044",
+        "plugin_id": "7d64430b-f0de-4916-8d82-c10dc4ffd89c",
+        "software_product_id": "c4700033-2a0b-4d58-b623-396d70cd8e90",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "76a6ee66-3bc2-4cf8-b78d-6b695189b583",
+        "created_at": "2023-09-13T15:31:41.608Z",
+        "updated_at": "2023-09-14T09:58:29.461Z",
+        "ai_tool_id": "359b63f0-bd04-4761-8009-5a3250ba2aaf",
+        "plugin_id": "e98e526d-02f1-4f9d-becb-300625ab285b",
+        "software_product_id": "6104a4f0-1e9f-4617-a42e-4d7746ae314a",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "57b596fc-dcfc-4809-8ee8-69905df15fe9",
+        "created_at": "2023-09-14T02:18:36.487Z",
+        "updated_at": "2023-09-14T01:28:46.790Z",
+        "ai_tool_id": "359b63f0-bd04-4761-8009-5a3250ba2aaf",
+        "plugin_id": "d33de7d4-3142-48bd-aaf2-2d4dc3b3686d",
+        "software_product_id": "c4700033-2a0b-4d58-b623-396d70cd8e90",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "411077cb-e50c-41a9-9132-cc40a97e2718",
+        "created_at": "2023-09-13T15:09:49.051Z",
+        "updated_at": "2023-09-13T22:19:44.847Z",
+        "ai_tool_id": "359b63f0-bd04-4761-8009-5a3250ba2aaf",
+        "plugin_id": "677658ab-6065-403f-a119-d413ccdd1262",
+        "software_product_id": "c8a307b4-591c-4fa1-af2d-c126b85515a7",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e8de08c8-6d8a-4daa-a39d-c3b818589cd4",
+        "created_at": "2023-09-14T01:16:43.437Z",
+        "updated_at": "2023-09-13T21:52:52.155Z",
+        "ai_tool_id": "d340c1bd-744e-4ae0-b524-7c53f4bddf3d",
+        "plugin_id": "d33de7d4-3142-48bd-aaf2-2d4dc3b3686d",
+        "software_product_id": "c8a307b4-591c-4fa1-af2d-c126b85515a7",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "34a52e2e-03ef-4d9a-ab18-31cecd150894",
+        "email": "Clair6@yahoo.com",
+        "firstName": "Ruthie",
+        "lastName": "Schowalter",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/834.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "cb39e513-28df-42a1-8fce-53d4052f07bd",
+        "email": "Linnie.Herman@yahoo.com",
+        "firstName": "Alexandre",
+        "lastName": "Huels",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/26060756",
+        "tenantId": null
+      },
+      {
+        "reference": "ba48f27c-8ecc-42b3-9e06-5dcff144b6f6",
+        "email": "Fletcher66@gmail.com",
+        "firstName": "Herminia",
+        "lastName": "Bruen",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/46558039",
+        "tenantId": null
+      },
+      {
+        "reference": "08b75b1b-c331-4232-9f54-6e18ecf5bf89",
+        "email": "Damian_Graham@hotmail.com",
+        "firstName": "Alex",
+        "lastName": "Roberts",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/772.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "ce09595e-b89d-4a10-8797-76847992bb15",
+        "email": "Ola60@hotmail.com",
+        "firstName": "Orion",
+        "lastName": "Roob",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/232.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "software_product": [
+      {
+        "id": "63b1e22a-cc59-41eb-8232-ea321e878465",
+        "name": "Product A",
+        "description": "This is the description for Product A",
+        "version": "1.0",
+        "created_at": "2023-09-14T08:25:14.910Z",
+        "updated_at": "2023-09-13T19:30:07.063Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "0cd39f11-013a-48a7-b344-2810d30f18da",
+        "name": "Product B",
+        "description": "This is the description for Product B",
+        "version": "2.0",
+        "created_at": "2023-09-13T23:30:50.071Z",
+        "updated_at": "2023-09-13T13:45:40.611Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "604b1528-028f-4aaf-8274-1a632da77462",
+        "name": "Product C",
+        "description": "This is the description for Product C",
+        "version": "3.0",
+        "created_at": "2023-09-13T20:36:52.673Z",
+        "updated_at": "2023-09-13T23:16:38.043Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "f2a1c5d0-f1c1-4b71-9b24-f2b23e160797",
+        "name": "Product D",
+        "description": "This is the description for Product D",
+        "version": "4.0",
+        "created_at": "2023-09-14T01:54:24.493Z",
+        "updated_at": "2023-09-13T19:51:00.382Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "25ebfe2a-7042-416e-9886-fc0483169197",
+        "name": "Product E",
+        "description": "This is the description for Product E",
+        "version": "5.0",
+        "created_at": "2023-09-13T16:41:50.824Z",
+        "updated_at": "2023-09-14T07:19:26.630Z",
+        "developer_id": "user_entity_pk"
+      }
+    ],
+    "plugin": [
+      {
+        "id": "66562a90-39f1-4f75-bde7-2564d95592dc",
+        "name": "Plugin A",
+        "description": "This is the description for Plugin A",
+        "version": "1.0",
+        "created_at": "2023-09-13T13:29:19.005Z",
+        "updated_at": "2023-09-14T11:47:29.625Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "7a3bd08c-f9cd-4f5f-b806-89c3555c04ed",
+        "name": "Plugin B",
+        "description": "This is the description for Plugin B",
+        "version": "2.0",
+        "created_at": "2023-09-13T21:56:30.612Z",
+        "updated_at": "2023-09-13T14:14:39.142Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "4dedb96b-4f40-4f75-a5db-95732a86836c",
+        "name": "Plugin C",
+        "description": "This is the description for Plugin C",
+        "version": "3.0",
+        "created_at": "2023-09-14T01:40:44.252Z",
+        "updated_at": "2023-09-14T00:10:58.873Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "6ece5cb5-cd49-412d-ad4f-7ddda50dfd84",
+        "name": "Plugin D",
+        "description": "This is the description for Plugin D",
+        "version": "4.0",
+        "created_at": "2023-09-14T00:17:57.270Z",
+        "updated_at": "2023-09-13T16:06:55.475Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "77f59b6d-2101-4089-835e-914b55358f43",
+        "name": "Plugin E",
+        "description": "This is the description for Plugin E",
+        "version": "5.0",
+        "created_at": "2023-09-14T11:34:04.514Z",
+        "updated_at": "2023-09-14T04:44:47.092Z",
+        "developer_id": "user_entity_pk"
+      }
+    ],
+    "ai_tool": [
+      {
+        "id": "6b6f2dbf-d7bf-4ed6-87c4-0154b48417b1",
+        "name": "Tool A",
+        "description": "This is the description for Tool A",
+        "version": "1.0",
+        "created_at": "2023-09-13T22:37:49.270Z",
+        "updated_at": "2023-09-14T10:56:15.527Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "356ab183-6e2f-4ff9-8b94-cda4e570ecd6",
+        "name": "Tool B",
+        "description": "This is the description for Tool B",
+        "version": "2.0",
+        "created_at": "2023-09-14T07:59:14.783Z",
+        "updated_at": "2023-09-13T17:45:55.224Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "fbee8ea0-aa8f-4547-8f77-acdb7dd6692e",
+        "name": "Tool C",
+        "description": "This is the description for Tool C",
+        "version": "3.0",
+        "created_at": "2023-09-14T08:56:53.941Z",
+        "updated_at": "2023-09-14T04:16:58.854Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "11a372e7-1ee3-4206-a4bb-77776bc67c37",
+        "name": "Tool D",
+        "description": "This is the description for Tool D",
+        "version": "4.0",
+        "created_at": "2023-09-14T00:47:53.290Z",
+        "updated_at": "2023-09-14T08:33:00.236Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "0ff9cc3c-726b-47ab-9364-2120a1834fd9",
+        "name": "Tool E",
+        "description": "This is the description for Tool E",
+        "version": "5.0",
+        "created_at": "2023-09-14T11:12:11.143Z",
+        "updated_at": "2023-09-14T09:23:49.749Z",
+        "developer_id": "user_entity_pk"
+      }
+    ],
+    "favorites": [
+      {
+        "id": "ed2068c4-9569-4eb0-aa49-ae8a31f98a7d",
+        "created_at": "2023-09-14T12:22:40.115Z",
+        "updated_at": "2023-09-14T07:52:26.379Z",
+        "ai_tool_id": "fbee8ea0-aa8f-4547-8f77-acdb7dd6692e",
+        "plugin_id": "7a3bd08c-f9cd-4f5f-b806-89c3555c04ed",
+        "software_product_id": "0cd39f11-013a-48a7-b344-2810d30f18da",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0de6fce5-aad5-4684-b7fb-120ad9734639",
+        "created_at": "2023-09-14T06:59:05.370Z",
+        "updated_at": "2023-09-13T16:25:25.125Z",
+        "ai_tool_id": "6b6f2dbf-d7bf-4ed6-87c4-0154b48417b1",
+        "plugin_id": "6ece5cb5-cd49-412d-ad4f-7ddda50dfd84",
+        "software_product_id": "604b1528-028f-4aaf-8274-1a632da77462",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "646b59eb-2633-4c7d-851a-ba2a2f957aa5",
+        "created_at": "2023-09-14T05:30:20.821Z",
+        "updated_at": "2023-09-14T10:49:43.459Z",
+        "ai_tool_id": "fbee8ea0-aa8f-4547-8f77-acdb7dd6692e",
+        "plugin_id": "66562a90-39f1-4f75-bde7-2564d95592dc",
+        "software_product_id": "63b1e22a-cc59-41eb-8232-ea321e878465",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f640fb14-4eb6-479a-8984-6d3af1058906",
+        "created_at": "2023-09-13T16:22:36.992Z",
+        "updated_at": "2023-09-14T02:32:27.906Z",
+        "ai_tool_id": "11a372e7-1ee3-4206-a4bb-77776bc67c37",
+        "plugin_id": "77f59b6d-2101-4089-835e-914b55358f43",
+        "software_product_id": "604b1528-028f-4aaf-8274-1a632da77462",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a4df3e05-b3d5-4fda-91be-bc2340812e7b",
+        "created_at": "2023-09-14T07:25:35.430Z",
+        "updated_at": "2023-09-14T05:44:53.797Z",
+        "ai_tool_id": "6b6f2dbf-d7bf-4ed6-87c4-0154b48417b1",
+        "plugin_id": "66562a90-39f1-4f75-bde7-2564d95592dc",
+        "software_product_id": "f2a1c5d0-f1c1-4b71-9b24-f2b23e160797",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "f68b26c6-9774-46fb-9730-d3c78268d190",
+        "email": "Doyle98@gmail.com",
+        "firstName": "Harmony",
+        "lastName": "West",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1047.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "2dce4ada-97e2-4db4-ae4c-3d9716742cdc",
+        "email": "Stone_Erdman1@yahoo.com",
+        "firstName": "Joannie",
+        "lastName": "Stanton",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/60.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "7cf9d3e1-971a-4456-a082-63bbad413468",
+        "email": "Kristian51@gmail.com",
+        "firstName": "Cruz",
+        "lastName": "Buckridge",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1234.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "f77bf842-2faa-4139-91fd-3c1848b6c90e",
+        "email": "Tom_Hettinger@yahoo.com",
+        "firstName": "Laila",
+        "lastName": "Sporer",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/834.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "b825cada-19a9-42aa-970c-de615c763e44",
+        "email": "Jermain.Mitchell@gmail.com",
+        "firstName": "Vincenza",
+        "lastName": "Luettgen",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/161721",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "software_product": [
+      {
+        "id": "c76a5d9f-c8b9-4dd5-abc7-0f7f3ffbbb9e",
+        "name": "Product A",
+        "description": "A software product for managing tasks",
+        "version": "1.0",
+        "created_at": "2023-09-14T06:25:43.478Z",
+        "updated_at": "2023-09-13T20:31:10.079Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "05955d4b-3f7f-4d7e-b0f0-50bf3ce0aaa8",
+        "name": "Product B",
+        "description": "A software product for customer relationship management",
+        "version": "2.0",
+        "created_at": "2023-09-14T04:31:28.732Z",
+        "updated_at": "2023-09-14T02:51:11.592Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "b4f2b1c1-bd3b-42e8-b706-badcbd454a5b",
+        "name": "Product C",
+        "description": "A software product for project management",
+        "version": "3.0",
+        "created_at": "2023-09-14T10:23:37.308Z",
+        "updated_at": "2023-09-14T07:53:08.415Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "387d7e88-7265-4622-96e6-58ab4f6cf227",
+        "name": "Product D",
+        "description": "A software product for inventory management",
+        "version": "4.0",
+        "created_at": "2023-09-13T12:59:04.131Z",
+        "updated_at": "2023-09-13T13:46:14.168Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "0fa96194-8e6e-456a-a6b0-252b00ba08c9",
+        "name": "Product E",
+        "description": "A software product for data analysis",
+        "version": "5.0",
+        "created_at": "2023-09-14T09:07:28.819Z",
+        "updated_at": "2023-09-13T20:07:18.906Z",
+        "developer_id": "user_entity_pk"
+      }
+    ],
+    "plugin": [
+      {
+        "id": "fdb8d5b7-6006-482b-b2b7-3ee6e16ca90c",
+        "name": "Plugin A",
+        "description": "A plugin for enhancing productivity",
+        "version": "1.0",
+        "created_at": "2023-09-14T05:13:36.706Z",
+        "updated_at": "2023-09-14T10:45:30.364Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "7c729d82-42f5-4ec0-9238-707906b96449",
+        "name": "Plugin B",
+        "description": "A plugin for data visualization",
+        "version": "2.0",
+        "created_at": "2023-09-13T20:21:18.985Z",
+        "updated_at": "2023-09-14T06:26:41.030Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "58a0f99e-0485-49a5-8a09-0e5be553d67e",
+        "name": "Plugin C",
+        "description": "A plugin for social media integration",
+        "version": "3.0",
+        "created_at": "2023-09-13T20:24:32.156Z",
+        "updated_at": "2023-09-14T04:02:07.694Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "b7f0fc9a-4a5f-4f4d-9cf7-caba7c4b10a6",
+        "name": "Plugin D",
+        "description": "A plugin for security enhancement",
+        "version": "4.0",
+        "created_at": "2023-09-14T04:09:28.400Z",
+        "updated_at": "2023-09-14T08:28:18.657Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "cd7bd781-de0b-437b-8fe4-c34ec8079045",
+        "name": "Plugin E",
+        "description": "A plugin for performance optimization",
+        "version": "5.0",
+        "created_at": "2023-09-13T19:36:07.220Z",
+        "updated_at": "2023-09-14T04:51:03.547Z",
+        "developer_id": "user_entity_pk"
+      }
+    ],
+    "ai_tool": [
+      {
+        "id": "b625fe0c-8547-48c1-a6d0-919417c0a1d5",
+        "name": "Tool A",
+        "description": "An AI tool for image recognition",
+        "version": "1.0",
+        "created_at": "2023-09-13T13:34:37.822Z",
+        "updated_at": "2023-09-13T15:45:09.204Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "2394d96e-7208-4b44-aa4b-4e5015b97382",
+        "name": "Tool B",
+        "description": "An AI tool for natural language processing",
+        "version": "2.0",
+        "created_at": "2023-09-14T01:06:31.164Z",
+        "updated_at": "2023-09-14T11:29:34.282Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "ec88d62f-3095-4019-92a9-eda020d38b24",
+        "name": "Tool C",
+        "description": "An AI tool for predictive analytics",
+        "version": "3.0",
+        "created_at": "2023-09-14T06:02:42.634Z",
+        "updated_at": "2023-09-14T01:00:22.762Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "82aff4a7-0b2e-449f-968c-b72f13ac34a5",
+        "name": "Tool D",
+        "description": "An AI tool for sentiment analysis",
+        "version": "4.0",
+        "created_at": "2023-09-14T07:36:14.025Z",
+        "updated_at": "2023-09-14T08:30:49.812Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "13fbd9e8-76ba-430e-a236-2ce71084067b",
+        "name": "Tool E",
+        "description": "An AI tool for recommendation systems",
+        "version": "5.0",
+        "created_at": "2023-09-14T07:27:33.834Z",
+        "updated_at": "2023-09-13T14:25:17.169Z",
+        "developer_id": "user_entity_pk"
+      }
+    ],
+    "favorites": [
+      {
+        "id": "89100789-0df5-475b-b064-681436b978cd",
+        "created_at": "2023-09-13T15:30:30.429Z",
+        "updated_at": "2023-09-13T20:41:15.214Z",
+        "ai_tool_id": "b625fe0c-8547-48c1-a6d0-919417c0a1d5",
+        "plugin_id": "fdb8d5b7-6006-482b-b2b7-3ee6e16ca90c",
+        "software_product_id": "b4f2b1c1-bd3b-42e8-b706-badcbd454a5b",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2ac32ee5-66b9-4537-969b-ac71fcc95d7f",
+        "created_at": "2023-09-14T11:49:27.087Z",
+        "updated_at": "2023-09-13T20:10:44.935Z",
+        "ai_tool_id": "2394d96e-7208-4b44-aa4b-4e5015b97382",
+        "plugin_id": "7c729d82-42f5-4ec0-9238-707906b96449",
+        "software_product_id": "05955d4b-3f7f-4d7e-b0f0-50bf3ce0aaa8",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3f5d81af-2445-401f-ade6-5d598eb56f2f",
+        "created_at": "2023-09-14T12:19:39.668Z",
+        "updated_at": "2023-09-13T17:56:25.249Z",
+        "ai_tool_id": "13fbd9e8-76ba-430e-a236-2ce71084067b",
+        "plugin_id": "b7f0fc9a-4a5f-4f4d-9cf7-caba7c4b10a6",
+        "software_product_id": "05955d4b-3f7f-4d7e-b0f0-50bf3ce0aaa8",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c5f496c4-0f77-40d5-af94-cfb104c72c38",
+        "created_at": "2023-09-14T04:47:38.911Z",
+        "updated_at": "2023-09-13T16:33:07.421Z",
+        "ai_tool_id": "b625fe0c-8547-48c1-a6d0-919417c0a1d5",
+        "plugin_id": "cd7bd781-de0b-437b-8fe4-c34ec8079045",
+        "software_product_id": "c76a5d9f-c8b9-4dd5-abc7-0f7f3ffbbb9e",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "cd7e9c46-3dfa-4927-a886-efbd3f2207e4",
+        "created_at": "2023-09-14T11:26:04.466Z",
+        "updated_at": "2023-09-14T06:52:43.159Z",
+        "ai_tool_id": "13fbd9e8-76ba-430e-a236-2ce71084067b",
+        "plugin_id": "b7f0fc9a-4a5f-4f4d-9cf7-caba7c4b10a6",
+        "software_product_id": "0fa96194-8e6e-456a-a6b0-252b00ba08c9",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "aa9c5a9e-c744-4d6b-b836-3a2df8948e11",
+        "email": "Kailey.Daugherty78@gmail.com",
+        "firstName": "Elena",
+        "lastName": "Brown-Schuppe",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/44774064",
+        "tenantId": null
+      },
+      {
+        "reference": "b63e1057-dfe1-41af-a769-65a5b3d94b94",
+        "email": "Rebecca_Hayes7@yahoo.com",
+        "firstName": "Lavonne",
+        "lastName": "Fay",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/388.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "1eca4af3-eb04-4932-b555-39dc709864ee",
+        "email": "Dahlia76@yahoo.com",
+        "firstName": "Fritz",
+        "lastName": "White",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1010.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "fea273dd-3550-4b4a-b6a1-d9e4e58ce671",
+        "email": "Beryl_Flatley3@gmail.com",
+        "firstName": "Therese",
+        "lastName": "Fadel",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/615.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "88f75e73-0ee5-476e-b72e-7d669a142d13",
+        "email": "Delta19@hotmail.com",
+        "firstName": "Khalil",
+        "lastName": "Rosenbaum",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/313.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "software_product": [
+      {
+        "id": "4912c5e2-f578-4dea-b45d-0cb47915ef99",
+        "name": "Product A",
+        "description": "This is the description for Product A",
+        "version": "1.0",
+        "created_at": "2023-09-13T15:31:18.734Z",
+        "updated_at": "2023-09-14T04:24:49.259Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "cdf6f57c-3230-4518-85bb-eb9a45368954",
+        "name": "Product B",
+        "description": "This is the description for Product B",
+        "version": "2.0",
+        "created_at": "2023-09-13T22:58:07.277Z",
+        "updated_at": "2023-09-13T19:57:47.523Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "5eb258ef-6b3e-470f-95dc-65b4fccdad9d",
+        "name": "Product C",
+        "description": "This is the description for Product C",
+        "version": "3.0",
+        "created_at": "2023-09-14T11:52:42.017Z",
+        "updated_at": "2023-09-13T19:00:12.764Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "0cd64ff5-4559-4244-b68e-23060636fd31",
+        "name": "Product D",
+        "description": "This is the description for Product D",
+        "version": "4.0",
+        "created_at": "2023-09-13T17:03:08.922Z",
+        "updated_at": "2023-09-13T22:10:04.828Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "7129a34e-dedc-42ef-a286-a492bdfc2f56",
+        "name": "Product E",
+        "description": "This is the description for Product E",
+        "version": "5.0",
+        "created_at": "2023-09-14T01:57:40.703Z",
+        "updated_at": "2023-09-14T08:37:35.869Z",
+        "developer_id": "user_entity_pk"
+      }
+    ],
+    "plugin": [
+      {
+        "id": "92dbda64-2a86-4308-98d5-26c634cddd87",
+        "name": "Plugin A",
+        "description": "This is the description for Plugin A",
+        "version": "1.0",
+        "created_at": "2023-09-14T08:08:11.231Z",
+        "updated_at": "2023-09-14T11:32:51.659Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "c8c25538-6bfc-414a-820f-10e7d5a83239",
+        "name": "Plugin B",
+        "description": "This is the description for Plugin B",
+        "version": "2.0",
+        "created_at": "2023-09-13T13:30:14.497Z",
+        "updated_at": "2023-09-14T04:47:42.406Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "cc4ecd0f-e3b2-48b2-a2e8-0a9045c8ef97",
+        "name": "Plugin C",
+        "description": "This is the description for Plugin C",
+        "version": "3.0",
+        "created_at": "2023-09-14T02:52:33.005Z",
+        "updated_at": "2023-09-13T18:19:52.469Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "cc3a794e-6193-4126-a99e-030015abfd8d",
+        "name": "Plugin D",
+        "description": "This is the description for Plugin D",
+        "version": "4.0",
+        "created_at": "2023-09-14T07:37:07.494Z",
+        "updated_at": "2023-09-13T18:17:04.338Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "cd2caab3-9a63-483c-b000-6a87da3aea28",
+        "name": "Plugin E",
+        "description": "This is the description for Plugin E",
+        "version": "5.0",
+        "created_at": "2023-09-13T21:38:10.015Z",
+        "updated_at": "2023-09-13T15:34:00.276Z",
+        "developer_id": "user_entity_pk"
+      }
+    ],
+    "ai_tool": [
+      {
+        "id": "1ee5e59a-a0c0-422b-89df-f4e8d3201457",
+        "name": "Tool A",
+        "description": "This is the description for Tool A",
+        "version": "1.0",
+        "created_at": "2023-09-14T02:13:55.262Z",
+        "updated_at": "2023-09-13T14:59:46.470Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "77b63b33-4e5e-499f-a679-caf097863ab2",
+        "name": "Tool B",
+        "description": "This is the description for Tool B",
+        "version": "2.0",
+        "created_at": "2023-09-14T05:24:18.372Z",
+        "updated_at": "2023-09-14T01:42:30.762Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "59cf9c0f-45b5-4a22-b518-0a02885f6162",
+        "name": "Tool C",
+        "description": "This is the description for Tool C",
+        "version": "3.0",
+        "created_at": "2023-09-13T22:47:19.190Z",
+        "updated_at": "2023-09-13T16:19:38.278Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "ac122503-03b1-4a2d-b140-1bbfb595467a",
+        "name": "Tool D",
+        "description": "This is the description for Tool D",
+        "version": "4.0",
+        "created_at": "2023-09-14T00:42:59.258Z",
+        "updated_at": "2023-09-13T16:56:38.795Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "4288614a-cc8f-4c47-9d56-002fbbcc4223",
+        "name": "Tool E",
+        "description": "This is the description for Tool E",
+        "version": "5.0",
+        "created_at": "2023-09-13T23:12:55.427Z",
+        "updated_at": "2023-09-13T19:52:59.146Z",
+        "developer_id": "user_entity_pk"
+      }
+    ],
+    "favorites": [
+      {
+        "id": "e282b4ec-e2eb-4bd3-be3e-ceb019608be3",
+        "created_at": "2023-09-13T15:44:19.844Z",
+        "updated_at": "2023-09-13T15:58:42.894Z",
+        "ai_tool_id": "1ee5e59a-a0c0-422b-89df-f4e8d3201457",
+        "plugin_id": "cd2caab3-9a63-483c-b000-6a87da3aea28",
+        "software_product_id": "4912c5e2-f578-4dea-b45d-0cb47915ef99",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "053006e4-e59b-4433-bb65-ba8f73eb91c3",
+        "created_at": "2023-09-14T07:13:31.883Z",
+        "updated_at": "2023-09-13T21:48:31.169Z",
+        "ai_tool_id": "1ee5e59a-a0c0-422b-89df-f4e8d3201457",
+        "plugin_id": "cc4ecd0f-e3b2-48b2-a2e8-0a9045c8ef97",
+        "software_product_id": "cdf6f57c-3230-4518-85bb-eb9a45368954",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "bdbb9fdc-605c-4324-a401-4512f0390c50",
+        "created_at": "2023-09-13T14:54:19.284Z",
+        "updated_at": "2023-09-14T07:43:10.604Z",
+        "ai_tool_id": "ac122503-03b1-4a2d-b140-1bbfb595467a",
+        "plugin_id": "cc3a794e-6193-4126-a99e-030015abfd8d",
+        "software_product_id": "4912c5e2-f578-4dea-b45d-0cb47915ef99",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b148ac89-da3e-4a3f-a0e5-b4353b1bff04",
+        "created_at": "2023-09-13T22:01:56.912Z",
+        "updated_at": "2023-09-14T08:20:58.908Z",
+        "ai_tool_id": "4288614a-cc8f-4c47-9d56-002fbbcc4223",
+        "plugin_id": "92dbda64-2a86-4308-98d5-26c634cddd87",
+        "software_product_id": "5eb258ef-6b3e-470f-95dc-65b4fccdad9d",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "dfac0fe7-f191-4279-a625-570fbeacfe0a",
+        "created_at": "2023-09-14T09:16:21.877Z",
+        "updated_at": "2023-09-14T05:34:20.426Z",
+        "ai_tool_id": "1ee5e59a-a0c0-422b-89df-f4e8d3201457",
+        "plugin_id": "cc3a794e-6193-4126-a99e-030015abfd8d",
+        "software_product_id": "7129a34e-dedc-42ef-a286-a492bdfc2f56",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "f87c1d46-c333-4e03-b10d-f78ea65cd68e",
+        "email": "Jonathan90@yahoo.com",
+        "firstName": "Eleonore",
+        "lastName": "Haag",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1014.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "62a8f39d-0a39-4649-9db2-8e501d408a60",
+        "email": "Kristy.Wintheiser@yahoo.com",
+        "firstName": "Elmira",
+        "lastName": "Borer",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/65197119",
+        "tenantId": null
+      },
+      {
+        "reference": "8b904073-b0be-4b13-9053-9aa192ff943e",
+        "email": "Rosemary.Bahringer@gmail.com",
+        "firstName": "Deja",
+        "lastName": "Gusikowski",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/889.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "22a4b86e-c606-45fb-af9d-34843e8ba92c",
+        "email": "Garland_Batz73@gmail.com",
+        "firstName": "Autumn",
+        "lastName": "Bernhard",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/21263962",
+        "tenantId": null
+      },
+      {
+        "reference": "fed81c84-5106-49a8-b7d2-f9ac8bb3c401",
+        "email": "Paul34@hotmail.com",
+        "firstName": "Wendell",
+        "lastName": "Beier",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1010.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "software_product": [
+      {
+        "id": "595bb764-6fb2-4452-b286-8c16331fae1f",
+        "name": "Product A",
+        "description": "This is the description for Product A",
+        "version": "1.0",
+        "created_at": "2023-09-14T08:14:55.585Z",
+        "updated_at": "2023-09-14T11:31:43.991Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "31941001-714d-42f9-81f0-557e4271cfa0",
+        "name": "Product B",
+        "description": "This is the description for Product B",
+        "version": "2.0",
+        "created_at": "2023-09-13T18:03:13.210Z",
+        "updated_at": "2023-09-13T14:01:30.723Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "55d24dbe-1c11-460f-88b4-b2a3be47c4ad",
+        "name": "Product C",
+        "description": "This is the description for Product C",
+        "version": "3.0",
+        "created_at": "2023-09-13T21:36:03.046Z",
+        "updated_at": "2023-09-13T21:18:49.168Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "2b144393-b3dd-4d70-92e6-526453372c02",
+        "name": "Product D",
+        "description": "This is the description for Product D",
+        "version": "4.0",
+        "created_at": "2023-09-14T06:47:43.141Z",
+        "updated_at": "2023-09-14T10:03:18.580Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "929e1f04-d453-404d-b531-a7c95a7b75cc",
+        "name": "Product E",
+        "description": "This is the description for Product E",
+        "version": "5.0",
+        "created_at": "2023-09-13T18:26:38.672Z",
+        "updated_at": "2023-09-13T19:02:32.578Z",
+        "developer_id": "user_entity_pk"
+      }
+    ],
+    "plugin": [
+      {
+        "id": "99eccddf-5fc2-4d11-9d80-845d2394c54b",
+        "name": "Plugin A",
+        "description": "This is the description for Plugin A",
+        "version": "1.0",
+        "created_at": "2023-09-14T10:00:03.006Z",
+        "updated_at": "2023-09-13T23:29:50.596Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "74399c40-352e-4442-85c9-e48abdf02d36",
+        "name": "Plugin B",
+        "description": "This is the description for Plugin B",
+        "version": "2.0",
+        "created_at": "2023-09-13T21:39:46.973Z",
+        "updated_at": "2023-09-13T20:20:48.409Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "b658bff9-b74f-47b6-bb9c-e12479551d88",
+        "name": "Plugin C",
+        "description": "This is the description for Plugin C",
+        "version": "3.0",
+        "created_at": "2023-09-14T11:53:05.865Z",
+        "updated_at": "2023-09-13T22:29:39.306Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "ebfda19c-c079-4d97-b1a1-ee718a66d375",
+        "name": "Plugin D",
+        "description": "This is the description for Plugin D",
+        "version": "4.0",
+        "created_at": "2023-09-14T08:56:20.802Z",
+        "updated_at": "2023-09-13T21:31:37.361Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "6c77e8fe-25bd-4341-ae26-1209dc87514f",
+        "name": "Plugin E",
+        "description": "This is the description for Plugin E",
+        "version": "5.0",
+        "created_at": "2023-09-14T11:05:41.973Z",
+        "updated_at": "2023-09-14T08:51:29.103Z",
+        "developer_id": "user_entity_pk"
+      }
+    ],
+    "ai_tool": [
+      {
+        "id": "5d47ee12-3a89-4d0e-812b-d08df48d0d10",
+        "name": "Tool A",
+        "description": "This is the description for Tool A",
+        "version": "1.0",
+        "created_at": "2023-09-13T20:27:23.329Z",
+        "updated_at": "2023-09-13T17:14:07.772Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "4879d723-1cf5-42e4-b8df-ec9761f57434",
+        "name": "Tool B",
+        "description": "This is the description for Tool B",
+        "version": "2.0",
+        "created_at": "2023-09-13T19:29:44.492Z",
+        "updated_at": "2023-09-14T11:17:12.451Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "737a7d7a-7e5d-4a5e-b5b6-86c5a20e5029",
+        "name": "Tool C",
+        "description": "This is the description for Tool C",
+        "version": "3.0",
+        "created_at": "2023-09-14T06:02:43.687Z",
+        "updated_at": "2023-09-14T11:24:25.109Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "496514d4-ebf5-4587-8177-477240eefac6",
+        "name": "Tool D",
+        "description": "This is the description for Tool D",
+        "version": "4.0",
+        "created_at": "2023-09-14T00:33:11.415Z",
+        "updated_at": "2023-09-13T16:14:12.799Z",
+        "developer_id": "user_entity_pk"
+      },
+      {
+        "id": "74a9cdd7-8631-4df4-9b0f-11b5187b4753",
+        "name": "Tool E",
+        "description": "This is the description for Tool E",
+        "version": "5.0",
+        "created_at": "2023-09-14T06:09:59.420Z",
+        "updated_at": "2023-09-13T19:04:55.511Z",
+        "developer_id": "user_entity_pk"
+      }
+    ],
+    "favorites": [
+      {
+        "id": "f18ac1c9-a0cd-4f1b-82ef-dad1c784ca1c",
+        "created_at": "2023-09-13T12:57:02.610Z",
+        "updated_at": "2023-09-14T00:24:00.775Z",
+        "ai_tool_id": "4879d723-1cf5-42e4-b8df-ec9761f57434",
+        "plugin_id": "74399c40-352e-4442-85c9-e48abdf02d36",
+        "software_product_id": "929e1f04-d453-404d-b531-a7c95a7b75cc",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b1285d8b-75a2-4d24-9bda-8bc600018e15",
+        "created_at": "2023-09-13T13:28:24.756Z",
+        "updated_at": "2023-09-13T20:07:41.211Z",
+        "ai_tool_id": "496514d4-ebf5-4587-8177-477240eefac6",
+        "plugin_id": "6c77e8fe-25bd-4341-ae26-1209dc87514f",
+        "software_product_id": "31941001-714d-42f9-81f0-557e4271cfa0",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "27f789c8-8829-4fe6-b398-83076d1c3919",
+        "created_at": "2023-09-13T19:50:31.904Z",
+        "updated_at": "2023-09-13T17:09:44.619Z",
+        "ai_tool_id": "5d47ee12-3a89-4d0e-812b-d08df48d0d10",
+        "plugin_id": "ebfda19c-c079-4d97-b1a1-ee718a66d375",
+        "software_product_id": "929e1f04-d453-404d-b531-a7c95a7b75cc",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "78ecb709-66da-47fa-a612-c129dbf721fb",
+        "created_at": "2023-09-13T20:48:44.108Z",
+        "updated_at": "2023-09-13T19:06:58.148Z",
+        "ai_tool_id": "74a9cdd7-8631-4df4-9b0f-11b5187b4753",
+        "plugin_id": "ebfda19c-c079-4d97-b1a1-ee718a66d375",
+        "software_product_id": "929e1f04-d453-404d-b531-a7c95a7b75cc",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d6faa1a5-8fdf-4e5c-8faf-a1331df07555",
+        "created_at": "2023-09-14T08:00:30.845Z",
+        "updated_at": "2023-09-13T14:41:16.004Z",
+        "ai_tool_id": "496514d4-ebf5-4587-8177-477240eefac6",
+        "plugin_id": "6c77e8fe-25bd-4341-ae26-1209dc87514f",
+        "software_product_id": "31941001-714d-42f9-81f0-557e4271cfa0",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "a9dc12af-ae34-41b6-895a-4a3d7e146dd1",
+        "email": "Ike_Armstrong34@yahoo.com",
+        "firstName": "Charles",
+        "lastName": "Bahringer",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/292.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "9154c5ad-459f-4e0b-aefb-69af874829ab",
+        "email": "Dereck.Adams@yahoo.com",
+        "firstName": "Merl",
+        "lastName": "Doyle",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/60750188",
+        "tenantId": null
+      },
+      {
+        "reference": "52528572-93df-40e1-a06e-6634c465f16e",
+        "email": "Maryse.White@yahoo.com",
+        "firstName": "Alf",
+        "lastName": "Hackett",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/363.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "4754e99f-0b63-4f99-8170-bf9b2b9e33d5",
+        "email": "Federico.Beier@gmail.com",
+        "firstName": "Waino",
+        "lastName": "Kuvalis",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/84791728",
+        "tenantId": null
+      },
+      {
+        "reference": "9b2df802-b1ff-4c5b-a719-e3d1d3b3f1ac",
+        "email": "Mackenzie_Sawayn88@yahoo.com",
+        "firstName": "Randall",
+        "lastName": "Konopelski",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/83600230",
+        "tenantId": null
+      }
+    ]
+  }
+]
